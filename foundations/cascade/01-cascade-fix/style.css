@@ -23,8 +23,8 @@ body {
   font-weight: bold;
   font-size: 20px;
 }
-  
-#cancel-button.button.cancel {
+
+.button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
@@ -36,7 +36,7 @@ div.text {
   font-weight: 100;
 }
 
-div.text div.text.child {
+div .text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
